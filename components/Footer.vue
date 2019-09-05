@@ -3,7 +3,6 @@
     <div class="container gutter">
       <div>
         <h4>Om oss</h4>
-        <hr />
         <div itemscope="" itemtype="http://schema.org/LocalBusiness">
           <a itemprop="url" href="https://mollbensin.no"
             ><div itemprop="name"><strong>Møll Bensinstasjon</strong></div></a
@@ -24,7 +23,6 @@
 
       <div>
         <h4>Kontakt</h4>
-        <hr />
         <ul class="list-nomargin">
           <li>Tlf: 382 67 144</li>
           <li>
@@ -35,7 +33,6 @@
 
       <div>
         <h4>Følg oss</h4>
-        <hr />
         <ul class="list-nomargin">
           <li>
             Facebook: <a href="//facebook.com/MollBensin/">/MollBensin</a>
