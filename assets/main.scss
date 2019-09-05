@@ -4,10 +4,21 @@ body {
     'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
     'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   color: #525f7f;
+  font-weight: 300;
+  background-color: #f9f9f9;
 }
 
 .container {
   width: 1280px;
   margin: auto;
   display: flex;
+
+  &.gutter {
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  &.center {
+    align-content: center;
+    justify-content: center;
+  }
 }

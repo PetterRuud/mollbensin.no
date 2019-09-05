@@ -18,7 +18,7 @@
 <script>
 import Logo from '~/components/Logo.vue'
 export default {
-  name: 'Navbar',
+  name: 'Header',
   components: {
     Logo
   },
@@ -36,14 +36,16 @@ $red: #d11e39;
 $grey: #2e2e2e;
 
 header {
-  background-color: white;
+  background-color: $red;
   padding: 24px 0;
+  margin-bottom: 48px;
   nav {
     ul {
       list-style: none;
       li {
         display: inline-block;
         padding: 8px 16px;
+        color: white;
       }
     }
   }

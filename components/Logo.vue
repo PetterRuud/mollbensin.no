@@ -10,7 +10,7 @@
 
 <style lang="scss" scoped>
 $red: #d11e39;
-$lightgrey: #c9c9c9;
+$lightgrey: #2a2a2a;
 
 .logo {
   display: flex;
@@ -23,7 +23,7 @@ $lightgrey: #c9c9c9;
     }
   }
   .brandname {
-    color: $red;
+    color: white;
     font-size: 32px;
     font-weight: 600;
   }
