@@ -51,5 +51,6 @@
 footer {
   margin-top: 32px;
   padding: 32px 0;
+  background-color: white;
 }
 </style>
