@@ -36,7 +36,7 @@ $red: #d11e39;
 $grey: #2e2e2e;
 
 header {
-  background-color: white;
+  background-color: #f9f9f9;
   padding: 24px 0;
   margin-bottom: 48px;
   nav {
@@ -44,8 +44,10 @@ header {
       text-align: right;
       li {
         display: inline-block;
+        text-transform: uppercase;
         a {
           padding: 8px 16px;
+          color: $grey;
         }
       }
     }

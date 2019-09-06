@@ -37,25 +37,35 @@
       bekostning av brukervennligheten. Vi har sager fra Jonsered og Husqvarna
       til fritidsbruk, vedkapping og for skogsarbeideren.
     </p>
-    
+
     <h2>Traktorklippere og frontridere</h2>
     <p>
-      En sitteklipper er det beste valget for store hager! Vi har både traktorklippere og frontridere fra Jonsered og Husqvarna.
+      En sitteklipper er det beste valget for store hager! Vi har både
+      traktorklippere og frontridere fra Jonsered og Husqvarna.
     </p>
 
     <h2>Trimmere og ryddere</h2>
     <p>
-      Gresstrimmere og kantklippere kommer i mange varianter, fra enkle gresstrimmere til avanserte ryddesager. Vi hjelper å finne en maskin som passer perfekt til dine behov. Vi har trimmere fra Honda, Jonsered og Husqvarna.
+      Gresstrimmere og kantklippere kommer i mange varianter, fra enkle
+      gresstrimmere til avanserte ryddesager. Vi hjelper å finne en maskin som
+      passer perfekt til dine behov. Vi har trimmere fra Honda, Jonsered og
+      Husqvarna.
     </p>
 
     <h2>Aggregater</h2>
     <p>
-      Hondas aggregater er konstruert for å være en pålitelige kilde til strøm av høy kvalitet. Utviklet for å håndtere de vanskeligste omgivelser og det mest krevende profesjonelle utstyret, løser de oppgavene med betryggende letthet og effektivitet.
+      Hondas aggregater er konstruert for å være en pålitelige kilde til strøm
+      av høy kvalitet. Utviklet for å håndtere de vanskeligste omgivelser og det
+      mest krevende profesjonelle utstyret, løser de oppgavene med betryggende
+      letthet og effektivitet.
     </p>
 
     <h2>Snøfresere</h2>
     <p>
-      Vi tar snøfresing på alvor! Hos oss får du kvalitetsfresere fra Honda og Jonsered, som holder år etter år. Modellene kommer i ulike størrelser, med hjul eller belte. Du kan være trygg på at du alltid vil få tak i slitedeler hos oss.
+      Vi tar snøfresing på alvor! Hos oss får du kvalitetsfresere fra Honda og
+      Jonsered, som holder år etter år. Modellene kommer i ulike størrelser, med
+      hjul eller belte. Du kan være trygg på at du alltid vil få tak i
+      slitedeler hos oss.
     </p>
   </div>
 </template>

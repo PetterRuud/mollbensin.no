@@ -10,11 +10,12 @@
 
 <style lang="scss" scoped>
 $red: #d11e39;
-$lightgrey: #c9c9c9;
+$lightgrey: #b9b9b9;
 
 .logo {
   display: flex;
   justify-content: center;
+  align-items: flex-end;
   .brandimage {
     width: 50px;
     margin-right: 12px;
@@ -26,10 +27,12 @@ $lightgrey: #c9c9c9;
     color: $red;
     font-size: 32px;
     font-weight: 600;
+    text-transform: uppercase;
   }
   .slogan {
     color: $lightgrey;
     font-size: 24px;
+    text-transform: uppercase;
   }
 }
 </style>

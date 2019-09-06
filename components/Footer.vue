@@ -50,5 +50,6 @@
 <style lang="scss" scoped>
 footer {
   margin-top: 32px;
+  padding: 32px 0;
 }
 </style>
