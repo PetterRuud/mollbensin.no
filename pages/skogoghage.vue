@@ -1,5 +1,5 @@
 <template>
-  <div class="container gutter">
+  <article class="container gutter">
     <h1>Skog og hage</h1>
     <p>
       Vi over 50 års fartstid som fagforhandler. Dette nyter du som kunde godt
@@ -67,5 +67,5 @@
       hjul eller belte. Du kan være trygg på at du alltid vil få tak i
       slitedeler hos oss.
     </p>
-  </div>
+  </article>
 </template>

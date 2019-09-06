@@ -38,7 +38,6 @@ $grey: #2e2e2e;
 header {
   background-color: #f9f9f9;
   padding: 24px 0;
-  margin-bottom: 48px;
   nav {
     ul {
       text-align: right;
