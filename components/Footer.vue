@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <div class="container gutter">
+    <div class="container flex gutter">
       <div>
         <h4>Om oss</h4>
         <div itemscope="" itemtype="http://schema.org/LocalBusiness">

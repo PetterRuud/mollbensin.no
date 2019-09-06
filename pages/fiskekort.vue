@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <article class="container gutter">
     <h1>Fiskekort i Mandalselva</h1>
     <p>
       Mandalselva er en av Norges beste lakseelver, og elva byr på varierte
@@ -48,5 +48,5 @@
         </li>
       </ul>
     </aside>
-  </div>
+  </article>
 </template>

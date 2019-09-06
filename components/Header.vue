@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div class="container gutter center">
+    <div class="container flex gutter center">
       <nuxt-link to="/"><Logo /></nuxt-link>
       <nav>
         <ul>

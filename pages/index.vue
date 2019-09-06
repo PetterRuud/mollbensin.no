@@ -83,7 +83,7 @@
         <div class="news">
           <div class="box">
             <div class="box-inner">
-              <img src="~/static/automower-awd-connectivity.jpg" />
+              <img src="~/static/H350-0271.jpg" />
               <div class="box-content">
                 <h3>Årets robonyhet</h3>
                 <p>Endelig en robotklipper for de mest krevende forholdene!</p>
@@ -131,8 +131,8 @@ $finn: #06bffc;
 
 .grid-container {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas: 'welcome welcome openinghours' 'news shop shop' 'promo promo promo';
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-areas: 'welcome welcome openinghours news' 'welcome welcome shop shop';
 }
 
 .welcome {
@@ -140,12 +140,9 @@ $finn: #06bffc;
   .box-inner {
     background-color: $red;
     color: white;
+
     h2 {
-      font-size: 42px;
-      margin-bottom: 6px;
-    }
-    p {
-      font-size: 24px;
+      font-size: 36px;
     }
   }
 }

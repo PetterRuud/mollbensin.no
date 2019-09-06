@@ -1,5 +1,5 @@
 <template>
-  <article>
+  <article class="container gutter">
     <h1>Verksted</h1>
     <p>
       Vi tilbyr service, vedlikehold og reperasjoner av motorsager,
