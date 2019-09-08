@@ -1,5 +1,5 @@
 <template>
-  <article>
+  <article class="container gutter">
     <h1>English</h1>
     <p>
       Møll Bensinstasjon / YX Holum is a gas station located in Holum, about 8
@@ -7,46 +7,36 @@
       cards for salmon fishing in Mandalselva and outdoor power products like
       lawn mowers, chainsaws, trimmers and more.
     </p>
-    <div class="box">
-      +47 382 67 144
-    </div>
-    <div class="box">
-      post@mollbensin.no
-    </div>
-    <div class="box">
-      Holumsveien 816, 4519 Holum
-    </div>
+    <Contact />
 
-    <h2>Generelle åpningstider</h2>
+    <h2>Opening Hours</h2>
     <table>
       <thead>
         <tr>
-          <th>Dager</th>
-          <th style="text-align: right;">Tider</th>
+          <th>Day</th>
+          <th style="text-align: right;">Hours</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Mandag–fredag</td>
+          <td>Monday–Friday</td>
           <td style="text-align: right;">07.30–20</td>
         </tr>
         <tr>
-          <td>Lørdag</td>
+          <td>Saturday</td>
           <td style="text-align: right;">08–20</td>
         </tr>
         <tr>
-          <td>Søndag</td>
+          <td>Sunday</td>
           <td style="text-align: right;">09–20</td>
         </tr>
       </tbody>
     </table>
-    <h3>Avvikende åpningstider</h3>
+    <h3>Adapted Opening Hours</h3>
     <ul>
-      <li>På helligdager&nbsp;har vi åpent fra 09–20.</li>
-      <li>
-        Julaften og nyttårsaften har vi normal åpningstid, men stenger kl 16.
-      </li>
-      <li>17. mai og 25. desember holder vi stengt.</li>
+      <li>National&nbsp;Holidays: 09–20</li>
+      <li>24th of December and 31th of December: Open until&nbsp;16</li>
+      <li>17th of May and 25th of December: Closed</li>
     </ul>
 
     <h2>Location and directions</h2>
@@ -75,3 +65,13 @@
     </p>
   </article>
 </template>
+
+<script>
+import Contact from './../components/Contact'
+export default {
+  name: 'English',
+  components: {
+    Contact
+  }
+}
+</script>

@@ -133,6 +133,13 @@ $finn: #06bffc;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-areas: 'welcome welcome openinghours news' 'welcome welcome shop shop';
+
+  @media (max-width: 1024px) {
+    max-width: 980px;
+
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 'welcome welcome' 'openinghours openinghours' 'news news' 'shop shop';
+  }
 }
 
 .welcome {
