@@ -16,9 +16,13 @@ $lightgrey: #b9b9b9;
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  @media (max-width: 750px) {
+    align-items: flex-start;
+  }
   .brandimage {
     width: 50px;
     margin-right: 12px;
+
     img {
       max-width: 100%;
     }
@@ -28,11 +32,17 @@ $lightgrey: #b9b9b9;
     font-size: 32px;
     font-weight: 600;
     text-transform: uppercase;
+    @media (max-width: 750px) {
+      font-size: 24px;
+    }
   }
   .slogan {
     color: $lightgrey;
     font-size: 24px;
     text-transform: uppercase;
+    @media (max-width: 750px) {
+      font-size: 16px;
+    }
   }
 }
 </style>

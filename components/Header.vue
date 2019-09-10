@@ -41,11 +41,14 @@ header {
   nav {
     ul {
       text-align: right;
+      @media (max-width: 750px) {
+        padding: 12px 0 0;
+      }
       li {
         display: inline-block;
         text-transform: uppercase;
         a {
-          padding: 8px 16px;
+          padding: 16px 16px;
           color: $grey;
         }
       }

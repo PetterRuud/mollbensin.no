@@ -93,13 +93,12 @@ $finn: #06bffc;
   margin-top: -150px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-areas: 'welcome welcome openinghours news' 'welcome welcome shop shop';
+  grid-template-areas: 'welcome welcome openinghours news' 'welcome welcome . .';
 
   @media (max-width: 1024px) {
     max-width: 980px;
-
     grid-template-columns: 1fr 1fr;
-    grid-template-areas: 'welcome welcome' 'openinghours openinghours' 'news news' 'shop shop';
+    grid-template-areas: 'welcome welcome' 'openinghours openinghours' 'news news';
   }
 }
 
@@ -111,27 +110,15 @@ $finn: #06bffc;
 
     h2 {
       font-size: 36px;
+      @media (max-width: 750px) {
+        font-size: 24px;
+      }
     }
   }
 }
 
 .openinghours {
   grid-area: openinghours;
-}
-
-.promo {
-  grid-area: promo;
-}
-
-.shop {
-  grid-area: shop;
-  .box-inner {
-    background-color: $finn;
-    color: white;
-    a {
-      color: white;
-    }
-  }
 }
 
 .news {
@@ -144,5 +131,8 @@ $finn: #06bffc;
   display: flex;
   justify-items: center;
   justify-content: space-between;
+  @media (max-width: 750px) {
+    display: block;
+  }
 }
 </style>
