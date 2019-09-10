@@ -48,7 +48,7 @@
               <div class="box-content">
                 <h3>Årets robonyhet</h3>
                 <p>Endelig en robotklipper for de mest krevende forholdene!</p>
-                <nuxt-link to="/english">Les mer</nuxt-link>
+                <nuxt-link to="/arets-robonyhet">Les mer</nuxt-link>
               </div>
             </div>
           </div>
