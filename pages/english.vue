@@ -76,7 +76,7 @@ export default {
   name: 'English',
   components: {
     Contact,
-    Map
-  }
+    Map,
+  },
 }
 </script>

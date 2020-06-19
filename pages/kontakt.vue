@@ -74,7 +74,7 @@ export default {
   name: 'Kontakt',
   components: {
     Contact,
-    Map
-  }
+    Map,
+  },
 }
 </script>

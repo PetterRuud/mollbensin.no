@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="container flex gutter center">
-      <nuxt-link to="/"><Logo /></nuxt-link>
+      <Logo />
       <nav>
         <ul>
           <li><nuxt-link to="/skogoghage">Skog og hage</nuxt-link></li>
@@ -20,14 +20,14 @@ import Logo from '~/components/Logo.vue'
 export default {
   name: 'Header',
   components: {
-    Logo
+    Logo,
   },
   data() {
     return {
-      load: false
+      load: false,
     }
   },
-  methods: {}
+  methods: {},
 }
 </script>
 
@@ -50,6 +50,15 @@ header {
         a {
           padding: 16px 16px;
           color: $grey;
+          border: 0;
+          display: block;
+          border-radius: 4px;
+          font-weight: 700;
+
+          &:hover {
+            background-color: $red;
+            color: white;
+          }
         }
       }
     }

@@ -63,16 +63,23 @@ $red: #d11e39;
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-}
+  @media (max-width: 1024px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
 
-.box {
-  text-align: center;
-  svg {
-    display: block;
-    width: 60px;
-    height: 60px;
-    margin: 0 auto 12px;
-    fill: $red;
+  @media (max-width: 780px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .box {
+    text-align: center;
+    svg {
+      display: block;
+      width: 60px;
+      height: 60px;
+      margin: 0 auto 12px;
+      fill: $red;
+    }
   }
 }
 </style>

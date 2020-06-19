@@ -1,10 +1,12 @@
 <template>
   <div class="logo">
-    <div class="brandimage"><img src="~/static/yx_logo.png" /></div>
-    <div class="brand">
-      <div class="brandname">Møll bensinstasjon</div>
-      <div class="slogan">YX Holum</div>
-    </div>
+    <nuxt-link to="/"
+      ><div class="brandimage"><img src="~/static/yx_logo.png" /></div>
+      <div class="brand">
+        <div class="brandname">Møll bensinstasjon</div>
+        <div class="slogan">YX Holum</div>
+      </div>
+    </nuxt-link>
   </div>
 </template>
 
@@ -13,9 +15,12 @@ $red: #d11e39;
 $lightgrey: #b9b9b9;
 
 .logo {
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
+  > a {
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
   @media (max-width: 750px) {
     align-items: flex-start;
   }

@@ -52,6 +52,7 @@ a {
   color: #328af1;
   text-decoration: none;
   border-bottom: 1px solid transparent;
+  transition: all 200ms ease-in-out;
   &:hover {
     border-bottom-color: #3490dc;
   }
@@ -88,7 +89,6 @@ table tbody tr {
     }
   }
 }
-
 
 .featureimage {
   background-size: cover;
