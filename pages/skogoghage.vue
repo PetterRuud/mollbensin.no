@@ -29,7 +29,9 @@
       <div class="grid">
         <div class="box">
           <div class="box-inner">
-            <img src="~/static/H350-0271.jpg" />
+            <div class="box-image">
+              <img src="~/static/H350-0271.jpg" alt="" />
+            </div>
             <div class="box-content">
               <h2>Robotklippere</h2>
               <p>
@@ -44,7 +46,9 @@
 
         <div class="box">
           <div class="box-inner">
-            <img src="~/static/gressklipper-jo.jpg" />
+            <div class="box-image">
+              <img src="~/static/gressklipper-jo.jpg" alt="" />
+            </div>
             <div class="box-content">
               <h2>Gressklippere</h2>
               <p>
@@ -60,7 +64,9 @@
 
         <div class="box">
           <div class="box-inner">
-            <img src="~/static/hq-motorsag.jpg" />
+            <div class="box-image">
+              <img src="~/static/hq-motorsag.jpg" alt="" />
+            </div>
             <div class="box-content">
               <h2>Motorsager</h2>
               <p>
@@ -75,7 +81,9 @@
 
         <div class="box">
           <div class="box-inner">
-            <img src="~/static/fr-jo.jpg" />
+            <div class="box-image">
+              <img src="~/static/fr-jo.jpg" alt="" />
+            </div>
             <div class="box-content">
               <h2>Traktorklippere og frontridere</h2>
               <p>
@@ -88,7 +96,9 @@
 
         <div class="box">
           <div class="box-inner">
-            <img src="~/static/trimmer-jo.jpg" />
+            <div class="box-image">
+              <img src="~/static/trimmer-jo.jpg" alt="" />
+            </div>
             <div class="box-content">
               <h2>Trimmere og ryddere</h2>
               <p>
@@ -103,7 +113,9 @@
 
         <div class="box">
           <div class="box-inner">
-            <img src="~/static/EU20i.jpg" />
+            <div class="box-image">
+              <img src="~/static/EU20i.jpg" alt="" />
+            </div>
             <div class="box-content">
               <h2>Aggregater</h2>
               <p>
@@ -119,7 +131,9 @@
 
         <div class="box">
           <div class="box-inner">
-            <img src="~/static/snofres-ho.jpg" />
+            <div class="box-image">
+              <img src="~/static/snofres-ho.jpg" alt="" />
+            </div>
             <div class="box-content">
               <h2>Snøfresere</h2>
               <p>
@@ -140,6 +154,7 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+
   @media (max-width: 1024px) {
     grid-template-columns: repeat(2, 1fr);
   }
