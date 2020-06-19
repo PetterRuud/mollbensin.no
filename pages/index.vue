@@ -86,7 +86,7 @@ $grey: #3c3c3c;
 $finn: #06bffc;
 
 .featureimage {
-  background-image: url('~static/moll-bensinstasjon-min.jpg');
+  background-image: url('~static/yx-min.jpg');
 }
 
 .grid-container {
