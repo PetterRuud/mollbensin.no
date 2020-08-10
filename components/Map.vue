@@ -11,7 +11,16 @@
         left: 0px;
         background-color: rgb(229, 227, 223);
       "
-    />
+    >
+    <GmapMarker
+    :key="index"
+    v-for="(m, index) in markers"
+    :position="m.position"
+    :clickable="true"
+    :draggable="true"
+    @click="center=m.position"
+  />
+  </GmapMap>
   </div>
 </template>
 
