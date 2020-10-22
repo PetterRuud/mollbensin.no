@@ -58,17 +58,12 @@
       <div class="logos">
         <div>
           <a href="http://www.husqvarna.com/no/home/" title="Husqvarna">
-            <img src="~/static/honda-logo.png" alt="Husqvarna logo" />
+          <img src="~/static/husqvarna-logo.png" alt="Honda logo" />
           </a>
         </div>
         <div>
           <a href="http://www.berema.no/" title="Honda/Berema">
-            <img src="~/static/husqvarna-logo.png" alt="Honda logo" />
-          </a>
-        </div>
-        <div>
-          <a href="http://www.jonsered.com/no/" title="Jonsered">
-            <img src="~/static/jonsered-logo.png" alt="Jonsered logo" />
+            <img src="~/static/honda-logo.png" alt="Husqvarna logo" />
           </a>
         </div>
       </div>
