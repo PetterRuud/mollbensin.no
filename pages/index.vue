@@ -57,13 +57,13 @@
 
       <div class="logos">
         <div>
-          <a href="http://www.husqvarna.com/no/home/" title="Husqvarna">
-          <img src="~/static/husqvarna-logo.png" alt="Honda logo" />
+          <a href="https://www.husqvarna.com/no/" title="Husqvarna">
+          <img src="~/static/husqvarna-logo.png" alt="Husqvarna logo" />
           </a>
         </div>
         <div>
-          <a href="http://www.berema.no/" title="Honda/Berema">
-            <img src="~/static/honda-logo.png" alt="Husqvarna logo" />
+          <a href="https://www.berema.no/" title="Honda/Berema">
+            <img src="~/static/honda-logo.png" alt="Honda/Berema logo" />
           </a>
         </div>
       </div>
@@ -125,7 +125,7 @@ $finn: #06bffc;
   padding: 48px;
   display: flex;
   justify-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   @media (max-width: 750px) {
     display: block;
   }
