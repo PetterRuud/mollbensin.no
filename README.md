@@ -1,6 +1,6 @@
 # mollbensin.no
 
-> My unreal Nuxt.js project
+> Next.js is better
 
 ## Build Setup
 
