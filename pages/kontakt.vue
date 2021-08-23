@@ -76,5 +76,19 @@ export default {
     Contact,
     Map,
   },
+
+  head() {
+    return {
+      title: 'Skog og hage | Møllbensin',
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          name: 'description',
+          content:
+            'Velkommen til Møll Bensinstasjon / YX Holum – fagforhandler av kvalitetsprodukter fra Honda, Jonsered og Husqvarna. ',
+        },
+      ],
+    }
+  },
 }
 </script>

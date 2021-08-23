@@ -58,7 +58,7 @@
       <div class="logos">
         <div>
           <a href="https://www.husqvarna.com/no/" title="Husqvarna">
-          <img src="~/static/husqvarna-logo.png" alt="Husqvarna logo" />
+            <img src="~/static/husqvarna-logo.png" alt="Husqvarna logo" />
           </a>
         </div>
         <div>
@@ -72,7 +72,21 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      title: 'Møllbensin',
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          name: 'description',
+          content:
+            'Velkommen til Møll Bensinstasjon / YX Holum – fagforhandler av kvalitetsprodukter fra Honda, Jonsered og Husqvarna. ',
+        },
+      ],
+    }
+  },
+}
 </script>
 
 <style lang="scss" scoped>
