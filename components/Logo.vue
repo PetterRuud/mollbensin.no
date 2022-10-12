@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <div class="logo">
     <nuxt-link to="/"
@@ -12,7 +13,7 @@
 
 <style lang="scss" scoped>
 $red: #d11e39;
-$lightgrey: #b9b9b9;
+$lightgrey: #1a1a1a;
 
 .logo {
   > a {
@@ -44,6 +45,7 @@ $lightgrey: #b9b9b9;
   .slogan {
     color: $lightgrey;
     font-size: 24px;
+    font-weight: bold;
     text-transform: uppercase;
     @media (max-width: 750px) {
       font-size: 16px;
