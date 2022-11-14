@@ -26,7 +26,7 @@
           </tr>
           <tr>
             <td>Saturday</td>
-            <td style="text-align: right;">08–20</td>
+            <td style="text-align: right;">08–18</td>
           </tr>
           <tr>
             <td>Sunday</td>
