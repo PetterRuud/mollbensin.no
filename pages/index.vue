@@ -74,7 +74,7 @@
 export default {
   head() {
     return {
-      title: 'Møllbensin',
+      title: 'Møll Bensinstasjon – Bensin, pølser og robotgressklippere',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
