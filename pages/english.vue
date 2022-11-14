@@ -26,7 +26,7 @@
           </tr>
           <tr>
             <td>Saturday</td>
-            <td style="text-align: right;">08–20</td>
+            <td style="text-align: right;">08–18</td>
           </tr>
           <tr>
             <td>Sunday</td>
@@ -36,7 +36,7 @@
       </table>
       <h3>Adapted Opening Hours</h3>
       <ul>
-        <li>National&nbsp;Holidays: 09–20</li>
+        <li>National&nbsp;Holidays: Opens at 9, normal closing hours</li>
         <li>24th of December and 31th of December: Open until&nbsp;16</li>
         <li>17th of May and 25th of December: Closed</li>
       </ul>
@@ -80,7 +80,7 @@ export default {
   },
   head() {
     return {
-      title: 'English| Møllbensin',
+      title: 'English | Møllbensin',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {

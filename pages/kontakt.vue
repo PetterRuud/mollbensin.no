@@ -20,7 +20,7 @@
           </tr>
           <tr>
             <td>Lørdag</td>
-            <td style="text-align: right;">08–20</td>
+            <td style="text-align: right;">08–18</td>
           </tr>
           <tr>
             <td>Søndag</td>
@@ -33,7 +33,7 @@
       </p>
       <h3>Avvikende åpningstider</h3>
       <ul>
-        <li>På helligdager&nbsp;har vi åpent fra 09–20.</li>
+        <li>På helligdager åpner vi kl 9, og har normal stengetid.</li>
         <li>
           Julaften og nyttårsaften har vi normal åpningstid, men stenger kl 16.
         </li>
