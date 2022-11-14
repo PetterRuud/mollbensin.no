@@ -34,7 +34,7 @@
                   <br />
                   <br />
                   <nuxt-link to="/kontakt" title="Avvikende åpningstider">
-                    Klikk for avvik
+                    Se avvikende åpningstider
                   </nuxt-link>
                 </p>
               </div>
@@ -46,9 +46,8 @@
           <div class="box">
             <div class="box-inner">
               <div class="box-content">
-                <h3>Årets robonyhet</h3>
-                <p>Endelig en robotklipper for de mest krevende forholdene!</p>
-                <nuxt-link to="/arets-robonyhet">Les mer</nuxt-link>
+                <h3>Kom innom</h3>
+                <p>Se våre nyheter i butikken!</p>
               </div>
             </div>
           </div>
