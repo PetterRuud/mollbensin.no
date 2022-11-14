@@ -29,7 +29,7 @@
                 <h3>fra kl. 07.30–20</h3>
                 <hr />
                 <p>
-                  Lørdager: 08–20
+                  Lørdager: 08–18
                   <br />Søndager: 09–20
                   <br />
                   <br />
