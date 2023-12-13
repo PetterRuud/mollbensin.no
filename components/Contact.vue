@@ -50,7 +50,7 @@
             />
             <path d="M0 0h24v24H0z" fill="none" />
           </svg>
-          <h4>Holumsveien 816, 4519 Holum</h4>
+          <h4>Marnarveien 816, 4519 Holum</h4>
         </div>
       </div>
     </div>
