@@ -35,7 +35,7 @@
       <ul>
         <li>På helligdager åpner vi kl 9, og har normal stengetid.</li>
         <li>
-          Julaften og nyttårsaften har vi normal åpningstid, men stenger kl 16.
+          Julaften og nyttårsaften har vi normal åpningstid, men stenger kl 15.
         </li>
         <li>17. mai og 25. desember holder vi stengt.</li>
       </ul>
