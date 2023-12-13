@@ -13,7 +13,7 @@
             itemscope=""
             itemtype="http://schema.org/PostalAddress"
           >
-            <span itemprop="streetAddress">Holumsveien 816</span><br />
+            <span itemprop="streetAddress">Marnarveien 816</span><br />
             <span itemprop="postalCode">4519</span>
             <span itemprop="addressLocality">Holum</span><br />
           </div>
