@@ -37,7 +37,7 @@
       <h3>Adapted Opening Hours</h3>
       <ul>
         <li>National&nbsp;Holidays: Opens at 9, normal closing hours</li>
-        <li>24th of December and 31th of December: Open until&nbsp;16</li>
+        <li>24th of December and 31th of December: Open until&nbsp;15</li>
         <li>17th of May and 25th of December: Closed</li>
       </ul>
 
