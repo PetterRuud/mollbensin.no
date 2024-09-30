@@ -5,8 +5,7 @@
       <h1>Fiskekort i Mandalselva</h1>
       <p>
         Mandalselva er en av Norges beste lakseelver, og elva byr på varierte
-        fiskemuligheter. Hos oss får du kjøpt fiskekort til sone 1 og 2. Vi har
-        også et godt utvalg sluker, fluer, hover og annet fiskeutstyr.
+        fiskemuligheter. 
       </p>
 
       <h2>Kjøp fiskekort</h2>
@@ -61,7 +60,7 @@
 export default {
   head() {
     return {
-      title: 'Fiskekort | Møllbensin',
+      title: 'Fiskekort | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
