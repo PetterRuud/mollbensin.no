@@ -6,7 +6,7 @@
       <p>
         Vi tilbyr service, vedlikehold og reperasjoner av motorsager,
         gressklippere, snøfresere og andre maskiner fra Honda, Jonsered,
-        Husqvarna og de fleste andre merker.
+        Husqvarna, Klippo, Partner, McCulloch m.m. 
       </p>
       <p>
         Verkstedet på Møll Bensinstasjon er åpent fra 08.00 til 16.00, mandag
@@ -28,13 +28,13 @@
 export default {
   head() {
     return {
-      title: 'Verksted | Møllbensin',
+      title: 'Verksted | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
           name: 'description',
           content:
-            'Velkommen til Møll Bensinstasjon / YX Holum – fagforhandler av kvalitetsprodukter fra Honda, Jonsered og Husqvarna. ',
+            'Vi utfører service, vedlikehold og reperasjoner av gressklippere, robotklippere, motorsager og andre skog- og hagemaskiner fra Husqvarna, Honda m.m.',
         },
       ],
     }

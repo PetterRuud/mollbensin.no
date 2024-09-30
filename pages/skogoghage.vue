@@ -6,7 +6,7 @@
         Vi over 50 års fartstid som fagforhandler. Dette nyter du som kunde godt
         av, enten du er proff eller hobbybruker! Hos oss får du blant
         gressklippere, robotklippere, traktorklippere, motorsager, gresstrimmere
-        og andre skog- og hageprodukter.
+        og andre skog- og hageprodukter. Vi utvider også stadig vårt utvalg av batteriprodukter fra 36V-serien til Husqvarna. 
       </p>
 
       <p>
@@ -38,7 +38,7 @@
                 Med en robotgressklipper kan du få en frodig, grønn plen uten å
                 måtte bruke tid på gressklipping. Dette er batteridrevne
                 gressklippere som slår gresset på egenhånd. Vi leverer
-                robotklippere fra Husqvarna og Honda.
+                robotklippere fra Husqvarna.
               </p>
             </div>
           </div>
@@ -56,7 +56,7 @@
                 utvalg klippere med funksjonalitet som trinnløs fremdrift,
                 bioklipp, knivstopp og elektrisk start, for å nevne noe. Kom
                 innom en tur, så hjelper vi deg å finne en modell som passer
-                dine behov. Vi har klippere fra Honda, Jonsered og Klippo.
+                dine behov. Vi har klippere fra Honda, Husqvarna og Klippo.
               </p>
             </div>
           </div>
@@ -71,8 +71,7 @@
               <h2>Motorsager</h2>
               <p>
                 Våre sager har den mest avanserte motorsagteknologien, uten at
-                det går på bekostning av brukervennligheten. Vi har sager fra
-                Jonsered og Husqvarna til fritidsbruk, vedkapping og for
+                det går på bekostning av brukervennligheten. Vi har sager fra Husqvarna til fritidsbruk, vedkapping og for
                 skogsarbeideren.
               </p>
             </div>
@@ -88,7 +87,7 @@
               <h2>Traktorklippere og frontridere</h2>
               <p>
                 En sitteklipper er det beste valget for store hager! Vi har både
-                traktorklippere og frontridere fra Jonsered og Husqvarna.
+                traktorklippere og frontridere fra Husqvarna og Honda.
               </p>
             </div>
           </div>
@@ -105,7 +104,7 @@
                 Gresstrimmere og kantklippere kommer i mange varianter, fra
                 enkle gresstrimmere til avanserte ryddesager. Vi hjelper å finne
                 en maskin som passer perfekt til dine behov. Vi har trimmere fra
-                Honda, Jonsered og Husqvarna.
+                Honda og Husqvarna.
               </p>
             </div>
           </div>
@@ -138,7 +137,7 @@
               <h2>Snøfresere</h2>
               <p>
                 Vi tar snøfresing på alvor! Hos oss får du kvalitetsfresere fra
-                Honda og Jonsered, som holder år etter år. Modellene kommer i
+                Honda og Husqvarna, som holder år etter år. Modellene kommer i
                 ulike størrelser, med hjul eller belte. Du kan være trygg på at
                 du alltid vil få tak i slitedeler hos oss.
               </p>
@@ -154,13 +153,13 @@
 export default {
   head() {
     return {
-      title: 'Skog og hage | Møllbensin',
+      title: 'Robotklippere, gressklippere, ridere, snøfresere m.m. | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
           name: 'description',
           content:
-            'Velkommen til Møll Bensinstasjon / YX Holum – fagforhandler av kvalitetsprodukter fra Honda, Jonsered og Husqvarna. ',
+            'Din lokale fagforhandler for salg og service av robotklippere, gressklippere, motorsager, snøfresere, front-ridere m.m. fra Husqvarna og Honda.',
         },
       ],
     }

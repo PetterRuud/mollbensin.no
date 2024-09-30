@@ -5,8 +5,7 @@
       <h1>English</h1>
       <p>
         Møll Bensinstasjon / YX Holum is a gas station located in Holum, about 8
-        km north of Mandal. Along with gas and snacks, you can also buy fishing
-        cards for salmon fishing in Mandalselva and outdoor power products like
+        km north of Mandal. Along with gas and snacks, you can also buy outdoor power products like
         lawn mowers, chainsaws, trimmers and more.
       </p>
       <Contact />
@@ -50,20 +49,9 @@
         >.
       </p>
 
-      <h2>Buy fishing cards for salmon fishing in Mandalselva</h2>
+      <h2>Fishing cards for salmon fishing in Mandalselva</h2>
       <p>
-        We sell fishing cards for zone 1 and 2. Please familiarize yourself with
-        the
-        <a href="http://mandalselva.no/article.aspx?id=715"
-          >fishing rules for Mandalselva</a
-        >&nbsp;and
-        <a href="http://lakseelvene.no/article.aspx?id=700"
-          >pricing information </a
-        >for&nbsp;the different cards and zones.
-      </p>
-      <p>
-        Be aware of a national fee for Salmon and seatrout fishing in Norway.
-        For more information click here.
+        Fishing cards can now be bought at <a href="https://www.inatur.no/sok/laksefisketilbud?q=mandalselva&f=%5B%7B%22felt%22%3A%22type%22%2C%22sokeord%22%3A%22laksefisketilbud%22%7D%5D&ledig=false&p=0">inatur.no</a>. Before you start fishing, the fishing gear must be disinfected (including waders, nets, and anything else that will come into contact with the river). This can be done with us for a fee of 50 NOK. A receipt will be issued once the fishing gear is disinfected, and you must keep it in case of an inspection.
       </p>
     </article>
   </div>
@@ -80,7 +68,7 @@ export default {
   },
   head() {
     return {
-      title: 'English | Møllbensin',
+      title: 'English | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
