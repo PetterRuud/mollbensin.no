@@ -11,7 +11,7 @@
       <h2>Om fiskekort</h2>
       <h3>Priser</h3>
       <p>
-        Prisene på fiskekortene varierer fra sone til sone. Fiskekort for Mandalselva kan nå kjøpes på inatur.no. 
+        Prisene på fiskekortene varierer fra sone til sone. Fiskekort for Mandalselva kjøpes nå på <a hrefs="https://www.inatur.no/sok/laksefisketilbud?q=mandalselva&f=%5B%7B%22felt%22%3A%22type%22%2C%22sokeord%22%3A%22laksefisketilbud%22%7D%5D&ledig=false&p=0">inatur.no</a>. 
       </p>
       <h3>Desinfisering av fiskeutstyr</h3>
       <p>
