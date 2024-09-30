@@ -68,7 +68,7 @@ export default {
   },
   head() {
     return {
-      title: 'English | Møllbensin',
+      title: 'English | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
