@@ -153,13 +153,13 @@
 export default {
   head() {
     return {
-      title: 'Skog og hage | Møll Bensinstasjon',
+      title: 'Robotklippere, gressklippere, ridere, snøfresere m.m. | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
           name: 'description',
           content:
-            'Velkommen til Møll Bensinstasjon / YX Holum – fagforhandler av kvalitetsprodukter fra Honda, Jonsered og Husqvarna. ',
+            'Din lokale fagforhandler for salg og service av robotklippere, gressklippere, motorsager, snøfresere, front-ridere m.m. fra Husqvarna og Honda.',
         },
       ],
     }
