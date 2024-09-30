@@ -9,8 +9,7 @@
         Husqvarna, Klippo, Partner, McCulloch m.m. 
       </p>
       <p>
-        Verkstedet på Møll Bensinstasjon er åpent fra 08.00 til 16.00, mandag
-        til fredag. Det samme gjelder vårt reservedelslager. Enklere deler som
+        Verkstedet på Møll Bensinstasjon er åpent fra 08.00 til 16.00 på hverdager (ferieuker kan avvike). Det samme gjelder vårt reservedelslager. Enklere deler som
         kniver, plugger, kjeder og lignende har vi tilgjengelig i stasjonens
         åpningstid.
       </p>
