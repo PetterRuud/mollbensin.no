@@ -3,7 +3,7 @@
     <article class="container gutter">
       <h1>Skog og hage</h1>
       <p>
-        Vi over 50 års fartstid som fagforhandler. Dette nyter du som kunde godt
+        Vi har over 50 års fartstid som fagforhandler. Dette nyter du som kunde godt
         av, enten du er proff eller hobbybruker! Hos oss får du blant
         gressklippere, robotklippere, traktorklippere, motorsager, gresstrimmere
         og andre skog- og hageprodukter. Vi utvider også stadig vårt utvalg av batteriprodukter fra 36V-serien til Husqvarna. 
