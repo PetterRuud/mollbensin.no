@@ -79,13 +79,13 @@ export default {
 
   head() {
     return {
-      title: 'Skog og hage | Møll Bensinstasjon',
+      title: 'Kontakt oss | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
           name: 'description',
           content:
-            'Din lokale fagforhandler for salg og service av robotklippere, gressklippere, motorsager, snøfresere, front-ridere m.m. fra Husqvarna og Honda.  ',
+            'Åpningstider og kontaktinformasjon for Møll Bensinstasjon.',
         },
       ],
     }
