@@ -8,17 +8,11 @@
         fiskemuligheter. 
       </p>
 
-      <h2>Kjøp fiskekort</h2>
+      <h2>Om fiskekort</h2>
       <h3>Priser</h3>
       <p>
         Prisene på fiskekortene varierer fra sone til sone. En oppdatert
         prisoversikt finner du på Mandalselva.no.
-      </p>
-      <h3>Depositum</h3>
-      <p>
-        Depositum per fiskekort er kr 100 for døgn- og ukeskort, og kr 200 for
-        sesongkort. Dette kommer i tillegg til prisen på fiskekortet. Vi
-        utbetaler depositum for kort fra sone 1 og 2.
       </p>
       <h3>Desinfisering av fiskeutstyr</h3>
       <p>
