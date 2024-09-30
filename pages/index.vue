@@ -8,8 +8,7 @@
             <div class="box-inner">
               <div class="box-content">
                 <h2>
-                  Velkommen til Møll Bensinstasjon / YX Holum – fagforhandler av
-                  kvalitetsprodukter fra Honda, Jonsered og Husqvarna.
+                  Velkommen til Møll Bensinstasjon / YX Holum – din lokale fagforhandler av kvalitetsmaskiner fra Honda og Husqvarna.
                 </h2>
                 <p>
                   Salg og service av gressklippere, snøfresere, motorsager og
