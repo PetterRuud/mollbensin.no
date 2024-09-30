@@ -52,13 +52,13 @@
 export default {
   head() {
     return {
-      title: 'Fiskekort | Møll Bensinstasjon',
+      title: 'Desinfisering for fiske i Mandalselva | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
           name: 'description',
           content:
-            'Velkommen til Møll Bensinstasjon / YX Holum – fagforhandler av kvalitetsprodukter fra Honda, Jonsered og Husqvarna. ',
+            'Hos oss kan du desinfisere fiskeutstyret ditt før du fisker i Mandalselva. Les mer.',
         },
       ],
     }
