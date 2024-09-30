@@ -6,7 +6,7 @@
       <p>
         Vi tilbyr service, vedlikehold og reperasjoner av motorsager,
         gressklippere, snøfresere og andre maskiner fra Honda, Jonsered,
-        Husqvarna og de fleste andre merker.
+        Husqvarna, Klippo, Partner, McCulloch m.m. 
       </p>
       <p>
         Verkstedet på Møll Bensinstasjon er åpent fra 08.00 til 16.00, mandag
@@ -28,7 +28,7 @@
 export default {
   head() {
     return {
-      title: 'Verksted | Møllbensin',
+      title: 'Verksted | Møll Bensinstasjon',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
