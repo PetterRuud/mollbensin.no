@@ -1,32 +1,28 @@
 {
   "name": "mollbensin.no",
-  "version": "1.0.0",
-  "description": "My unreal Nuxt.js project",
-  "author": "Petter Ruud",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
-  },
-  "dependencies": {
-    "@nuxtjs/pwa": "^3.3.5",
-    "nuxt": "^2.15.8",
-    "vue2-google-maps": "^0.10.7"
+    "dev": "vp dev",
+    "build": "vp build",
+    "preview": "wrangler dev",
+    "check": "vp check",
+    "deploy": "vp build && wrangler deploy"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.19.1",
-    "@nuxtjs/eslint-config": "^11.0.0",
-    "@nuxtjs/eslint-module": "^3.1.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^8.25.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-nuxt": ">=4.0.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1",
-    "sass": "^1.55.0",
-    "sass-loader": "10"
+    "@fontsource/lato": "^5.3.0",
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.5",
+    "tailwindcss": "^4.3.5",
+    "vite": "catalog:",
+    "vite-plus": "catalog:",
+    "wrangler": "^4.162.0"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.21.0",
+      "onFail": "download"
+    }
   }
 }
